@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Check the Live Site
 
-The project is deployed using Vercel 
+This project is deployed using Vercel 
 
 - [Live Website](https://kanban-board-delta-sable.vercel.app/) - Click on the link to check the website
 
