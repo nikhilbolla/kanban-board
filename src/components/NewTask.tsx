@@ -11,7 +11,7 @@ import {
 
 import { Button } from "@/components/ui/button"
 import { CirclePlus } from "lucide-react";
-import { useTaskStore } from "../../lib/store";
+import { useTaskStore } from "../lib/store";
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 

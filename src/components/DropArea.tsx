@@ -1,8 +1,8 @@
 
 
 import { useState } from "react";
-import { Status, useTaskStore } from "../../lib/store";
-import { cn } from "../../lib/utils";
+import { Status, useTaskStore } from "../lib/store";
+import { cn } from "../lib/utils";
 
 const DropArea = ({pos, status} : {pos:number, status: Status}) => {
     // The Drop Area shows up only when the Tasks is being dragged Over

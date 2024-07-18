@@ -1,7 +1,7 @@
 "use client"
 
 import { Trash } from "lucide-react";
-import { useTaskStore } from "../../lib/store";
+import { useTaskStore } from "../lib/store";
 
 const Tasks = ({id, title, description} : {id: string, title: string, description?: string}) => {
 

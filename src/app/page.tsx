@@ -4,7 +4,7 @@ import Columns from "../components/Columns";
 import NewTask from "../components/NewTask";
 import SearchBar from "../components/Search";
 
-import { Status } from "../../lib/store";
+import { Status } from "../lib/store";
 
 type Column = {
   id: string;

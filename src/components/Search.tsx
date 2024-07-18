@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { useTaskStore } from "../../lib/store";
+import { useTaskStore } from "../lib/store";
 import { Search } from "lucide-react";
 
 const SearchBar = () => {

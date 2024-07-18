@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useMemo } from "react";
-import { Status, useTaskStore } from "../../lib/store";
+import { Status, useTaskStore } from "../lib/store";
 import Tasks from "./Tasks";
 import DropArea from "./DropArea";
 
